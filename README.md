@@ -129,7 +129,7 @@ Học viên tạo thư mục `KiemTra_Web` gồm 3 file: `index.html`, `style.cs
 | **7** |C|
 | **8** |B|
 | **9** |C|
-| **10** |A|
+| **10** |C|
 
 ---
 **Chúc các bạn làm bài tốt!** 🚀
