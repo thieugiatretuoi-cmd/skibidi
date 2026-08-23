@@ -1,0 +1,21 @@
+.NhuY{
+    background-color: rgb(252, 254, 255);
+    color:rgb(82, 169, 241);
+    border:2px solid red;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+    border-radius: 12px;
+    
+}
+.truonghoc{
+    width: 100px;
+    padding: 30px;
+}
+.haha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

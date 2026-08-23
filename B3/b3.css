@@ -1,0 +1,23 @@
+.container{
+    background-color: antiquewhite;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lane{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    background-color: aqua;
+    height: 50%;
+    width: 50%;
+    
+}
+
+.TaiKhoan{
+    width:50%;
+
+}
+

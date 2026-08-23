@@ -1,0 +1,11 @@
+Checkbox or Radio
+    .checked = 
+Input 
+    .placeholder
+    .readOnly
+    disable = 
+Text
+    .innerText
+    .innerHTML
+Image
+    .srcpa
